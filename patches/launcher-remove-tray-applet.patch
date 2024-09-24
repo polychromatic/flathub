@@ -1,0 +1,12 @@
+diff --git a/sources/launchers/polychromatic.desktop b/sources/launchers/polychromatic.desktop
+index cca893d..7cd1592 100644
+--- a/sources/launchers/polychromatic.desktop
++++ b/sources/launchers/polychromatic.desktop
+@@ -17,7 +17,7 @@ Exec=polychromatic-controller
+ Encoding=UTF-8
+ Terminal=false
+ Categories=Settings;HardwareSettings;
+-Actions=devices;effects;tray-applet;
++Actions=devices;effects;
+ StartupWMClass=polychromatic-controller
+ #presets;triggers;
